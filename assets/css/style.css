@@ -1,0 +1,13 @@
+.background{
+    background-image:url(rock.png);
+}
+
+
+#name {
+    color: white;
+    font-size:25px;
+    font-family: 'Georgia', Times, 'Times New Roman', serif;
+    font-weight: bold;
+    background-color:#4aaaa5;
+}
+
