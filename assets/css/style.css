@@ -1,7 +1,6 @@
-.background{
-    background-image:url(rock.png);
+.background {
+    background-image:url(../images/rock.png)
 }
-
 
 #name {
     color: white;
@@ -9,5 +8,21 @@
     font-family: 'Georgia', Times, 'Times New Roman', serif;
     font-weight: bold;
     background-color:#4aaaa5;
+}
+
+.container2 {
+    background-color: #ffffff;
+    border:1px solid #dddddd;
+    padding:40px; 
+    margin-top:40px; 
+    margin-bottom: 160px;
+
+}
+
+h1 {
+    color:#4aaaa5;
+    font-weight: bold;
+    font-family: 'Georgia', Times, 'Times New Roman', serif;
+    border-bottom: solid #dddddd;
 }
 
