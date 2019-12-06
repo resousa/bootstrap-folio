@@ -32,6 +32,10 @@ body {
     margin-bottom: 20px; 
 }
 
+.port-image {
+    margin-bottom: 30px;
+}
+
 h1 {
     color:#4aaaa5;
     font-weight: bold;
@@ -43,16 +47,6 @@ h1 {
     height: 60px;
     background-color: #666666;
     border-top:8px solid #4aaaa5;
-}
-
-.game-title {
-    color:#ffffff;
-    background:#4aaaa5;
-    font-family:'Georgia', Times, 'Times New Roman', serif;
-    font-size: large;
-    text-align: center;
-    padding-top: 15px;
-    padding-bottom: 15px;
 }
 
 button[type=submit] {
