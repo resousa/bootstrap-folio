@@ -1,5 +1,5 @@
 .background {
-    background-image:url(../images/rock.png)
+    background-image:url(../images/rock.png);
 }
 
 #name {
@@ -10,13 +10,25 @@
     background-color:#4aaaa5;
 }
 
+html,
+body {
+  height: 100%;
+
+}
+
+#wrap {
+  min-height: 100%;
+  height: auto;
+  margin: 0 auto -60px;
+  padding: 0 0 60px;
+}
+
 .container2 {
     background-color: #ffffff;
     border:1px solid #dddddd;
     padding:40px; 
-    margin-top:40px; 
-    margin-bottom: 160px;
-
+    margin-top:40px;   
+    margin-bottom: 20px; 
 }
 
 h1 {
@@ -25,4 +37,14 @@ h1 {
     font-family: 'Georgia', Times, 'Times New Roman', serif;
     border-bottom: solid #dddddd;
 }
+
+
+.container {
+    height: 60px;
+    background-color: #666666;
+    border-top:8px solid #4aaaa5;
+}
+
+
+
 
